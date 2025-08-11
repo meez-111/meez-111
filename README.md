@@ -30,14 +30,14 @@ I'm passionate about building robust, scalable web applications and constantly l
 
 ### ✨ Featured Projects
 
-* **[Excel Data Corrector & Chart Generator](https://github.com/meez-111/Python-Excel-Data-Corrector)**
-    * A Python script using `openpyxl` to automate data correction and visualize results in Excel, showcasing file I/O and data manipulation.
+* **[PyBlog](https://github.com/meez-111/pyblog)**
+    * PyBlog is a complete, feature-rich blog application built on the Django web framework.
 
-* **[Simple Task Management System (Coming Soon!)](https://github.com/meez-111/simple-task-management-system)**
-    * A RESTful API for a simple task management system, demonstrating CRUD operations and user authentication.
+* **[PyblogAPI](https://github.com/meez-111/pyblogAPI)**
+    * PyBlog API is a robust RESTFul API, production-ready backend for a blog application, built with Django and Django REST Framework (DRF), demonstrating CRUD operations and user authentication.
 
-* **[Simple Port Scanner (Coming Soon!)](https://github.com/yourusername/python-port-scanner)**
-    * A basic Python script to scan open ports on a target, demonstrating network programming fundamentals relevant to pentesting.
+* **[PyShop](https://github.com/meez-111/pyshop-django-shop)**
+    * PyShop is a foundational e-commerce web application built with Django, designed to demonstrate core web development concepts.
 
 ---
 
@@ -54,5 +54,6 @@ These dynamic cards provide a quick overview of my activity and most used langua
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meez-111&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+*“إِنَّما نُحاوِلُ مُلكاً أَو نَموتُ فَنُعذَرا.”*
 
 *“The only way to do great work is to love what you do.” — Steve Jobs*

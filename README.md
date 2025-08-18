@@ -30,6 +30,9 @@ I'm passionate about building robust, scalable web applications and constantly l
 
 ### ✨ Featured Projects
 
+* **[PyWalletAPI](https://github.com/meez-111/pywalletapi)**
+    * This project is a robust and secure backend API for a personal digital wallet, built with Django and Django REST Framework. It allows users to             manage their financial accounts, track income and expenses, and transfer funds between users.
+
 * **[PyBlog](https://github.com/meez-111/pyblog)**
     * PyBlog is a complete, feature-rich blog application built on the Django web framework.
 

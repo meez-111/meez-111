@@ -31,7 +31,10 @@ I'm passionate about building robust, scalable web applications and constantly l
 ### ✨ Featured Projects
 
 * **[PyWalletAPI](https://github.com/meez-111/pywalletapi)**
-    * This project is a robust and secure backend API for a personal digital wallet, built with Django and Django REST Framework. It allows users to             manage their financial accounts, track income and expenses, and transfer funds between users.
+    * This project is a robust and secure backend API for a personal digital wallet, built with Django and Django REST Framework. It allows users to manage their financial accounts, track income and expenses, and transfer funds between users.
+    * 
+* **[Removie](https://github.com/meez-111/Removie)**
+    * A modern and responsive movie browsing application built with React. Removie allows you to easily discover and search for movies using a clean, intuitive interface. The app fetches movie data from the TMDB (The Movie Database) API and tracks trending searches using Appwrite.
 
 * **[PyBlog](https://github.com/meez-111/pyblog)**
     * PyBlog is a complete, feature-rich blog application built on the Django web framework.
